@@ -1,0 +1,132 @@
+station,classification,road_distance,height,latitude,longitude
+Barking and Dagenham - Rush Green,Suburban,Not applicable,Not available,51.563752000000,0.1778910000000
+Barking and Dagenham - Scrattons Farm,Suburban,Not applicable,Not available,51.529389000000,0.1328570000000
+Bexley - Belvedere,Suburban,Not applicable,Not available,51.490610208215,0.1589144939275
+Bexley - Belvedere West,Urban Background,50 metres,2 metres,51.494648681306,0.1372791112322
+Bexley - Slade Green,Suburban,Not available,4 metres,51.465983274666,0.1848771269944
+Bexley - Slade Green Fidas,Suburban,Not applicable,Not available,51.465983274666,0.1848771269944
+Brent - ARK Franklin Primary Academy,Roadside,3 metres,Not available,51.532405461781,-0.217718908639
+Brent - Ikea,Roadside,Not available,Not available,51.552476000000,-0.258089000000
+Brent - John Keble Primary School,Roadside,Not available,Not available,51.537799000000,-0.247793000000
+Brent - Neasden Lane,Industrial,Not applicable,Not available,51.552656000000,-0.248774000000
+Bromley - Harwood Avenue,Roadside,7 metres,3.5 metres,51.405546000000,0.0188820000000
+Camden - Bloomsbury,Urban Background,Not available,4 metres,51.522287000000,-0.125848000000
+Camden - Holborn (Bee Midtown),Kerbside,1 metres,2 metres,51.517367514618,-0.120194711317
+Camden - Swiss Cottage,Kerbside,1.5 metres,3 metres,51.544219000000,-0.175284000000
+City of London - Beech Street,Roadside,1 metres,Not available,51.520225273171,-0.096106047418
+City of London - Farringdon Street,Kerbside,0.5 metres,Not available,51.514525336231,-0.104515626338
+City of London - Guildhall,Urban Background,Not applicable,Not available,51.515907000000,-0.092023986000
+City of London - The Aldgate School,Urban Background,Not applicable,Not available,51.513847178423,-0.077765681752
+City of London - Upper Thames Street,Roadside,5 metres,Not available,51.510596915839,-0.092102903192
+Croydon - Norbury,Kerbside,0.95 metres,2.5 metres,51.411349000000,-0.123110000000
+Croydon - Norbury Manor,Urban Background,Not available,Not available,51.410039000000,-0.127523000000
+Croydon - Park Lane,Roadside,5 metres,1.74 metres,51.373953063538,-0.096763846832
+Croydon - Purley Way A23,Roadside,3.4 metres,2.6 metres,51.362230565540,-0.117604507351
+Dartford - St Clements 2,Roadside,2.5 metres,2.1 metres,51.448823581151,0.2793791302237
+Dartford Roadside 2 - Town Centre,Roadside,3.8 metres,2.2 metres,51.442670234050,0.2161858566622
+Ealing - Acton Vale,Urban Background,Not available,2.55 metres,51.503852791982,-0.254668101620
+Ealing - Hanger Lane Gyratory,Roadside,3 metres,2 metres,51.530850000000,-0.292488000000
+Ealing - Horn Lane,Industrial,Not applicable,1.8 metres,51.518948000000,-0.265617000000
+Ealing - Horn Lane TEOM,Industrial,Not applicable,1.8 metres,51.518916034881,-0.265652052386
+Ealing - Western Avenue,Roadside,Not applicable,Not available,51.523607819148,-0.265502631800
+Enfield - Bowes Primary School,Roadside,Not available,Not available,51.613865000000,-0.125338000000
+Enfield - Bush Hill Park,Suburban,Not applicable,Not available,51.645036726660,-0.066180066223
+Enfield - Derby Road,Roadside,6 metres,4 metres,51.614864007000,-0.050765836369
+Enfield - Prince of Wales School,Urban Background,40 metres,1.5 metres,51.668643347270,-0.022007205570
+Greenwich - A206 Burrage Grove,Roadside,12 metres,3 metres,51.490532000000,0.0740030000000
+Greenwich - Blackheath,Roadside,10 metres,3 metres,51.472504000000,-0.012381000000
+Greenwich - Eltham,Suburban,Not available,5 metres,51.452580000000,0.0707660000000
+Greenwich - Falconwood,Roadside,1.2 metres,3 metres,51.456300000000,0.0856060000000
+Greenwich - Falconwood FDMS,Roadside,1.2 metres,3 metres,51.456300000000,0.0856060000000
+Greenwich - Fiveways Sidcup Rd A20,Roadside,2 metres,3 metres,51.434662706056,0.0642224671705
+Greenwich - John Harrison Way,Roadside,3 metres,3 metres,51.493774669582,0.0107796237033
+Greenwich - Plumstead High Street,Roadside,5 metres,Not available,51.486957000000,0.0951110000000
+Greenwich - Trafalgar Road (Hoskins St),Roadside,5 metres,3 metres,51.483907253348,0.0004073969358
+Greenwich - Tunnel Avenue,Roadside,13 metres,1.3 metres,51.495057000000,0.0041074676000
+Greenwich - Westhorne Avenue,Roadside,12 metres,3 metres,51.456357000000,0.0407250000000
+Greenwich - Woolwich Flyover,Roadside,3 metres,3 metres,51.486884000000,0.0179010000000
+Hackney - Old Street,Roadside,6 metres,3 metres,51.526454000000,-0.084910000000
+Haringey - Priory Park South,Urban Background,60 metres,2 metres,51.583976900771,-0.125400278485
+Haringey - Haringey Town Hall,Roadside,9 metres,3 metres,51.599302000000,-0.068218000000
+Harrow - Pinner Road,Roadside,3 metres,3 metres,51.588417000000,-0.362989000000
+Harrow - Stanmore,Urban Background,Not available,3 metres,51.617327000000,-0.298775000000
+Havering - Rainham,Roadside,10 metres,2 metres,51.520787459334,0.2054607056940
+Havering - Romford,Roadside,8 metres,4 metres,51.572976000000,0.1790790000000
+Hillingdon - Harlington,Urban Background,Not available,3 metres,51.488780000000,-0.441627000000
+Hillingdon - Keats Way,Suburban,Not available,3 metres,51.496309000000,-0.460826000000
+Islington - Arsenal,Urban Background,15 metres,2.5 metres,51.557895000000,-0.106989000000
+Islington - Holloway Road,Roadside,3 metres,3 metres,51.555378000000,-0.116146000000
+Kensington and Chelsea - North Ken,Urban Background,Not available,3 metres,51.521046747604,-0.213492139585
+Kensington and Chelsea - North Ken FIDAS,Urban Background,1 metres,4 metres,51.521046747604,-0.213492139585
+Kingston Upon Thames - Cromwell Road,Roadside,2.82 metres,1.6 metres,51.412308000000,-0.296584780000
+Kingston Upon Thames - Kingston Vale,Roadside,Not available,Not available,51.435500664777,-0.257029893768
+Kingston Upon Thames - Tolworth Broadway,Roadside,4.2 metres,1.6 metres,51.379312000000,-0.281259000000
+Lambeth - Bondway Interchange,Industrial,3 metres,2 metres,51.485486773973,-0.124545234819
+Lambeth - Brixton Road,Kerbside,1 metres,2 metres,51.464113541162,-0.114581026951
+Lambeth - Streatham Green,Urban Background,Not applicable,Not available,51.428213142950,-0.131868638796
+Lewisham - Deptford,Urban Background,Not available,2.5 metres,51.479531283820,-0.025260603134
+Lewisham - Honor Oak Park,Urban Background,Not available,Not available,51.449672896035,-0.037415359212
+Lewisham - Laurence House Catford,Roadside,3.5 metres,1.5 metres,51.444780800000,-0.022183200000
+Lewisham - Loampit Vale,Roadside,8 metres,1.5 metres,51.464691061174,-0.016068243204
+Lewisham - New Cross,Roadside,6 metres,3 metres,51.474954000000,-0.039641000000
+London Teddington Bushy Park,Suburban,Not applicable,Not available,51.425256036094,-0.345608290873
+Marylebone Road - BAM,Kerbside,1 metres,3 metres,51.522509359742,-0.154622154657
+Merton - Merton Road,Roadside,Not applicable,Not available,51.416138479486,-0.192230805043
+Merton - Morden Civic Centre 2,Roadside,3 metres,4 metres,51.401620000000,-0.195892120000
+Newham - Britannia Gate,Roadside,7 metres,1.36 metres,51.503858000000,0.0205744150000
+Newham - Cam Road,Roadside,Not applicable,Not available,51.537598000000,-0.002138000000
+Newham - East Ham Town Hall,Roadside,5.9 metres,2 metres,51.533016604017,0.0550002064487
+Newham - Hoola Tower,Roadside,3 metres,1.45 metres,51.508198000000,0.0150021520000
+Newham - Wren Close,Urban Background,Not applicable,Not available,51.514727000000,0.0145540000000
+Reading - New Town,Urban Background,100 metres,3 metres,51.452984707517,-0.944461432664
+Redbridge - Gardner Close,Roadside,5 metres,2 metres,51.576610000000,0.0308580000000
+Redbridge - Ley Street,Urban Background,Not applicable,Not available,51.569484331524,0.0829074748965
+Regent Street facade (The Crown Estate),Roadside,6.5 metres,4 metres,51.511182497979,-0.139114122784
+Reigate and Banstead - A23 Hooley,Roadside,2 metres,2.5 metres,51.292470638127,-0.154121454401
+Reigate and Banstead - Horley,Suburban,Not available,2.5 metres,51.165875088614,-0.167703256283
+Reigate and Banstead - Horley FIDAS,Suburban,Not available,Not available,51.165875088614,-0.167703256283
+Reigate and Banstead - Horley South East,Suburban,Not applicable,1.4 metres,51.161260500136,-0.162410036780
+Reigate and Banstead - Poles Lane,Rural,Not available,2.5 metres,51.142082000000,-0.194181000000
+Richmond Upon Thames - Barnes Wetlands,Suburban,Not applicable,Not available,51.476168000000,-0.230427000000
+Richmond Upon Thames - Castelnau,Roadside,3 metres,3 metres,51.480189000000,-0.237335000000
+Sevenoaks - Bat and Ball,Roadside,6.7 metres,2 metres,51.288768144317,0.1934209069063
+Sevenoaks - Greatness Park,Urban Background,Not applicable,Not available,51.289391000000,0.2014370000000
+Southwark - A2 Old Kent Road,Roadside,5 metres,2 metres,51.480499493647,-0.059552893257
+Southwark - A2 Old Kent Road FIDAS,Roadside,5 metres,2 metres,51.480499493647,-0.059552893257
+Southwark - Elephant and Castle,Urban Background,Not applicable,Not available,51.493155704867,-0.101527038275
+Southwark - Lower Road,Roadside,Not available,4 metres,51.496560416732,-0.053050447253
+Southwark - South Circular Road,Roadside,Not available,Not available,51.442633000000,-0.077653974000
+Southwark - Tower Bridge Road,Roadside,4 metres,1.7 metres,51.501390671207,-0.078203437361
+Southwark - Vicarage Grove,Roadside,Not available,4 metres,51.473580347961,-0.087781853675
+Sutton - Beddington Lane north,Industrial,4.5 metres,3 metres,51.389286904505,-0.141661524780
+Sutton - Beddington Village,Roadside,5 metres,1.9 metres,51.371201077316,-0.131948824988
+Sutton - Wallington,Kerbside,0.8 metres,1.9 metres,51.358659612500,-0.149723946605
+Sutton - Worcester Park,Kerbside,1.3 metres,2.75 metres,51.377923000000,-0.240414000000
+Thurrock - Dock Road Tilbury,Roadside,6 metres,1.6 metres,51.463807428797,0.3521415455941
+Thurrock - London Road (Grays),Urban Background,Not available,3 metres,51.477076000000,0.3179380000000
+Thurrock - London Road (Purfleet),Roadside,2 metres,2 metres,51.478697000000,0.2551330000000
+Thurrock - Stanford-le-Hope,Roadside,Not available,3 metres,51.518162000000,0.4395480000000
+Tower Hamlets - Blackwall,Roadside,4 metres,3.5 metres,51.515046167401,-0.008418492656
+Tower Hamlets - Jubilee Park,Urban Background,20 metres,2 metres,51.502987873146,-0.018021990817
+Tower Hamlets - Mile End Road,Roadside,4.2 metres,3.5 metres,51.522529486084,-0.042155099190
+Wandsworth - Battersea,Roadside,Not applicable,2.5 metres,51.479439528122,-0.141786953606
+Wandsworth - Lavender Hill (Clapham Jct),Roadside,Not applicable,Not available,51.463690356811,-0.166713485995
+Wandsworth - Putney,Urban Background,Not applicable,2.75 metres,51.465032505912,-0.215824580948
+Wandsworth - Putney High Street,Kerbside,0.5 metres,1 metres,51.463429000000,-0.215871000000
+Wandsworth - Putney High Street Facade,Roadside,Not available,Not available,51.463720604719,-0.215890144123
+Wandsworth - Tooting High Street,Roadside,2 metres,2.5 metres,51.429331000000,-0.166524000000
+Wandsworth - Wandsworth Town Hall,Urban Background,Not available,7 metres,51.456962000000,-0.191074000000
+Waterloo Place (The Crown Estate),Roadside,5.7 metres,1.1 metres,51.507581913776,-0.133068372704
+Westminster - Cavendish Square,Roadside,5 metres,1.7 metres,51.516801645206,-0.145657269364
+Westminster - Covent Garden,Urban Background,50 metres,2 metres,51.511976982580,-0.121627203329
+Westminster - Duke Street (Grosvenor),Roadside,2 metres,2 metres,51.512999883209,-0.150913488159
+Westminster - Ebury Street (Grosvenor),Roadside,1.5 metres,1 metres,51.493492000000,-0.149906000000
+Westminster - Elizabeth Bridge,Roadside,Not available,Not available,51.492248233302,-0.147114752900
+Westminster - Horseferry Road,Urban Background,Not available,Not available,51.494681000000,-0.131938000000
+Westminster - Marylebone Road,Kerbside,1.5 metres,2.5 metres,51.522540000000,-0.154590000000
+Westminster - Oxford Street,Kerbside,1 metres,1.5 metres,51.513928740421,-0.152792701882
+Westminster - Oxford Street East,Roadside,1.2 metres,1.7 metres,51.516066000000,-0.135163880000
+Westminster - Strand (Northbank BID),Roadside,2.5 metres,1.8 metres,51.511970118828,-0.116713103529
+Windsor and Maidenhead - Aldebury Road,Urban Background,Not available,Not available,51.536385408762,-0.725480414495
+Windsor and Maidenhead - Clarence Road,Roadside,3.5 metres,1.73 metres,51.480178972651,-0.623808425140
+Windsor and Maidenhead - Frascati Way,Roadside,3.8 metres,1.7 metres,51.520894546995,-0.724024666515
