@@ -12,5 +12,5 @@ Other possible future avenues:
 * Supplementing the forecast to take as input meterological data (wind speed, temperature, sunniness.)
 * Using an SARIMA model rather than a deep learning model.
 * Using a pretrained forecasting model and fine-tuning it on our data.
-* London instituted ultra-low-emission zones (ULEZ) in the city center in Apr. 2019. I would like to perform causality analysis to see if this policy led to a statistically lower emissions in these zones.
+* London instituted ultra-low-emission zones (ULEZ) in the city center on Apr. 8, 2019. I would like to perform causality analysis to see if this policy led to a statistically lower emissions in these zones.
 
